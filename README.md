@@ -1,7 +1,7 @@
 
 # Rocket.Chat GSoC Contributions Leaderboard
 
-![Rocket.Chat GSoC Contributions Leaderboard screenshot](https://github.com/Sing-Li/bbug/blob/master/images/leaderboard.png)
+![Rocket.Chat GSoC Contributions Leaderboard screenshot](images/contributing-list.png)
 
 A contributions leaderboard for your GSoC organization. Students can track their position on leaderboard based on the PRs, commits, and issues they've completed across the repositories of your organization on Github.
 
